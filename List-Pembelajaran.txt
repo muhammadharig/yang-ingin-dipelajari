@@ -8,6 +8,8 @@ List yang akan kita pelajari :
  1. HTML
  2. CSS
  3. Javascript
+ 4. Boostrap
+ 5. TailWind Css
 
 - Back-End Web Developer :
 1. PHP
