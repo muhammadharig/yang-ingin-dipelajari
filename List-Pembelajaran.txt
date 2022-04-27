@@ -1,0 +1,13 @@
+List yang akan kita pelajari :
+
+- VCS :
+ 1. Git
+ 2. Github
+
+- Front-Eend Web Developer :
+ 1. HTML
+ 2. CSS
+
+- Back-End Web Developer :
+1. PHP
+2. Pyhton
